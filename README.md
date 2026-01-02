@@ -5,6 +5,9 @@ DepMap-based analysis of GSK3A and GSK3B paralog dependencies across cancer cell
 
 ## Overview
 
+• Identify transcriptional programs associated with GSK3B dependency.
+• Lay groundwork for precision biomarker discovery.
+
 This project demonstrates how integrated functional genomics data can be used to identify **context-specific, paralog-selective target dependencies** and link them to underlying transcriptional programs. Using the GSK3 paralogs (GSK3A and GSK3B) as an illustrative example, the analysis highlights how gene dependency patterns vary across cellular contexts and how these differences can inform **rational target prioritization and patient stratification**.
 
 The analysis leverages data from the Cancer Dependency Map (DepMap) to examine whether gene expression patterns are associated with dependency on the kinase **GSK3B** across human cancer cell lines. Gene expression, CRISPR gene dependency, and sample metadata are integrated into a single aligned dataset, with an emphasis on **data integrity, reproducibility, and biological interpretability** rather than black-box prediction.
